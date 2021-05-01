@@ -1,0 +1,13 @@
+{{ define "title" }}
+{{- .Title -}}
+{{ end }}
+{{ define "main" }}
+{{ "<!-- _default/category.html start -->" | safeHTML }}
+<ul>
+{{ range .Params.categories -}}
+  <li><a href="{{ print "/categories/" . | relURL }}/">{{ . }}</a></li>
+{{ end -}}
+</ul>
+{{ .Content }}
+{{ "<!-- _default/category.html end -->" | safeHTML }}
+{{ end }}
