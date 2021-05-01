@@ -1,5 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "ja" #日本語を指定
 title = "地獄でなぜ悪い" #タイトルを指定
+theme = "ananke"  # テーマのテンプレートを使ってみる場合
 [taxonomies]
 tag = "tags"
