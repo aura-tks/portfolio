@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>盆地至上主義</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on 盆地至上主義</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 01 May 2021 16:32:22 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>今月の一冊について</title>
-      <link>http://example.org/article/aboutmonthlybook/</link>
+      <link>/article/aboutmonthlybook/</link>
       <pubDate>Sun, 02 May 2021 11:41:39 +0900</pubDate>
       
-      <guid>http://example.org/article/aboutmonthlybook/</guid>
+      <guid>/article/aboutmonthlybook/</guid>
       <description>これから毎月一冊の本を選んで読み, その本の感想を残してゆこうと思います.</description>
     </item>
     
     <item>
       <title>毎日アイカツ!について</title>
-      <link>http://example.org/article/abouteverydayaikatsu/</link>
+      <link>/article/abouteverydayaikatsu/</link>
       <pubDate>Sun, 02 May 2021 11:39:24 +0900</pubDate>
       
-      <guid>http://example.org/article/abouteverydayaikatsu/</guid>
+      <guid>/article/abouteverydayaikatsu/</guid>
       <description>これから毎日, アイカツ!を1話観て, その感想を残すことを日課にしようと思います.</description>
     </item>
     
     <item>
       <title>その他</title>
-      <link>http://example.org/others/</link>
+      <link>/others/</link>
       <pubDate>Sun, 02 May 2021 11:27:46 +0900</pubDate>
       
-      <guid>http://example.org/others/</guid>
+      <guid>/others/</guid>
       <description>経歴
 ノート
 言葉
@@ -43,19 +43,19 @@
     
     <item>
       <title>ノート</title>
-      <link>http://example.org/notes/</link>
+      <link>/notes/</link>
       <pubDate>Sun, 02 May 2021 11:24:35 +0900</pubDate>
       
-      <guid>http://example.org/notes/</guid>
+      <guid>/notes/</guid>
       <description>この頁では, 数学関係のノートを掲載します.</description>
     </item>
     
     <item>
       <title>リンク</title>
-      <link>http://example.org/links/</link>
+      <link>/links/</link>
       <pubDate>Sun, 02 May 2021 10:58:00 +0900</pubDate>
       
-      <guid>http://example.org/links/</guid>
+      <guid>/links/</guid>
       <description>数学
 arXiv
 Stacks Project
@@ -68,19 +68,19 @@ Wikipedia…暇潰しにどうぞ.
     
     <item>
       <title>言葉</title>
-      <link>http://example.org/words/</link>
+      <link>/words/</link>
       <pubDate>Sun, 02 May 2021 10:44:55 +0900</pubDate>
       
-      <guid>http://example.org/words/</guid>
+      <guid>/words/</guid>
       <description>この頁では, 私が影響を受けた言葉や文章を紹介します.</description>
     </item>
     
     <item>
       <title>経歴</title>
-      <link>http://example.org/cv/</link>
+      <link>/cv/</link>
       <pubDate>Sun, 02 May 2021 10:20:24 +0900</pubDate>
       
-      <guid>http://example.org/cv/</guid>
+      <guid>/cv/</guid>
       <description>学歴 非公開
 学位 非公開
 職歴 非公開
@@ -89,10 +89,10 @@ Wikipedia…暇潰しにどうぞ.
     
     <item>
       <title>Hello World!</title>
-      <link>http://example.org/article/hello-hugo/</link>
+      <link>/article/hello-hugo/</link>
       <pubDate>Sat, 01 May 2021 16:32:15 +0900</pubDate>
       
-      <guid>http://example.org/article/hello-hugo/</guid>
+      <guid>/article/hello-hugo/</guid>
       <description>Hello, World!
 この記事はテストのために作成されました.
 動画を埋め込むことが可能なようです. layouts/shortcodes/youtube.htmlにshortcodeを記述し, サイズを調整しています.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>アイカツ on 盆地至上主義</title>
-    <link>http://example.org/categories/%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84/</link>
+    <link>/categories/%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84/</link>
     <description>Recent content in アイカツ on 盆地至上主義</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 02 May 2021 11:39:24 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>毎日アイカツ!について</title>
-      <link>http://example.org/article/abouteverydayaikatsu/</link>
+      <link>/article/abouteverydayaikatsu/</link>
       <pubDate>Sun, 02 May 2021 11:39:24 +0900</pubDate>
       
-      <guid>http://example.org/article/abouteverydayaikatsu/</guid>
+      <guid>/article/abouteverydayaikatsu/</guid>
       <description>これから毎日, アイカツ!を1話観て, その感想を残すことを日課にしようと思います.</description>
     </item>
     
