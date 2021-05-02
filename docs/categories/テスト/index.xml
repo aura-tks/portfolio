@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>テスト on 盆地至上主義</title>
-    <link>https://auta-tks.github.io/portfolio/categories/%E3%83%86%E3%82%B9%E3%83%88/</link>
+    <link>https://aura-tks.github.io/portfolio/categories/%E3%83%86%E3%82%B9%E3%83%88/</link>
     <description>Recent content in テスト on 盆地至上主義</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 01 May 2021 16:32:15 +0900</lastBuildDate>
     
-	<atom:link href="https://auta-tks.github.io/portfolio/categories/%E3%83%86%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aura-tks.github.io/portfolio/categories/%E3%83%86%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World!</title>
-      <link>https://auta-tks.github.io/portfolio/article/hello-hugo/</link>
+      <link>https://aura-tks.github.io/portfolio/article/hello-hugo/</link>
       <pubDate>Sat, 01 May 2021 16:32:15 +0900</pubDate>
       
-      <guid>https://auta-tks.github.io/portfolio/article/hello-hugo/</guid>
+      <guid>https://aura-tks.github.io/portfolio/article/hello-hugo/</guid>
       <description>Hello, World!
 この記事はテストのために作成されました.
-動画を埋め込むことが可能なようです. layouts/shortcodes/youtube.htmlにshortcodeを記述し, サイズを調整しています.
+動画を埋め込むことが可能なようです.
  筑波山の山頂にて   shortcodeを用いて画像をタイトル付きで表示しています. その際, サイズを変更しています.
 🦑
 &amp;mdash; あうら (@aura_tks) April 21, 2021  同様にshortcodeを用いるとツイートを簡単に掲載できます.
