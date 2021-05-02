@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/article/</loc>
+    <lastmod>2021-05-02T11:41:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2021-05-02T11:41:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/%E4%BB%8A%E6%9C%88%E3%81%AE%E4%B8%80%E5%86%8A/</loc>
+    <lastmod>2021-05-02T11:41:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/aboutmonthlybook/</loc>
+    <lastmod>2021-05-02T11:41:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84/</loc>
+    <lastmod>2021-05-02T11:39:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/abouteverydayaikatsu/</loc>
+    <lastmod>2021-05-02T11:39:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/others/</loc>
+    <lastmod>2021-05-02T11:27:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/notes/</loc>
+    <lastmod>2021-05-02T11:24:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/links/</loc>
+    <lastmod>2021-05-02T10:58:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/words/</loc>
+    <lastmod>2021-05-02T10:44:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/cv/</loc>
+    <lastmod>2021-05-02T10:20:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-05-01T16:32:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/hello-hugo/</loc>
+    <lastmod>2021-05-01T16:32:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/%E3%83%86%E3%82%B9%E3%83%88/</loc>
+    <lastmod>2021-05-01T16:32:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

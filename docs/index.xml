@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>盆地至上主義</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 盆地至上主義</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 01 May 2021 16:32:22 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>今月の一冊について</title>
+      <link>http://example.org/article/aboutmonthlybook/</link>
+      <pubDate>Sun, 02 May 2021 11:41:39 +0900</pubDate>
+      
+      <guid>http://example.org/article/aboutmonthlybook/</guid>
+      <description>これから毎月一冊の本を選んで読み, その本の感想を残してゆこうと思います.</description>
+    </item>
+    
+    <item>
+      <title>毎日アイカツ!について</title>
+      <link>http://example.org/article/abouteverydayaikatsu/</link>
+      <pubDate>Sun, 02 May 2021 11:39:24 +0900</pubDate>
+      
+      <guid>http://example.org/article/abouteverydayaikatsu/</guid>
+      <description>これから毎日, アイカツ!を1話観て, その感想を残すことを日課にしようと思います.</description>
+    </item>
+    
+    <item>
+      <title>その他</title>
+      <link>http://example.org/others/</link>
+      <pubDate>Sun, 02 May 2021 11:27:46 +0900</pubDate>
+      
+      <guid>http://example.org/others/</guid>
+      <description>経歴
+ノート
+言葉
+リンク</description>
+    </item>
+    
+    <item>
+      <title>ノート</title>
+      <link>http://example.org/notes/</link>
+      <pubDate>Sun, 02 May 2021 11:24:35 +0900</pubDate>
+      
+      <guid>http://example.org/notes/</guid>
+      <description>この頁では, 数学関係のノートを掲載します.</description>
+    </item>
+    
+    <item>
+      <title>リンク</title>
+      <link>http://example.org/links/</link>
+      <pubDate>Sun, 02 May 2021 10:58:00 +0900</pubDate>
+      
+      <guid>http://example.org/links/</guid>
+      <description>数学
+arXiv
+Stacks Project
+mathoverflow
+数学以外
+阿浦高志のTwitter…阿浦高志に関する情報が逐次更新される便利なサイト. 他に呟くという機能がある.
+Wikipedia…暇潰しにどうぞ.
+東秩父村役場…ご存じ, 東秩父村のホームページ. 全てはここからはじまった.</description>
+    </item>
+    
+    <item>
+      <title>言葉</title>
+      <link>http://example.org/words/</link>
+      <pubDate>Sun, 02 May 2021 10:44:55 +0900</pubDate>
+      
+      <guid>http://example.org/words/</guid>
+      <description>この頁では, 私が影響を受けた言葉や文章を紹介します.</description>
+    </item>
+    
+    <item>
+      <title>経歴</title>
+      <link>http://example.org/cv/</link>
+      <pubDate>Sun, 02 May 2021 10:20:24 +0900</pubDate>
+      
+      <guid>http://example.org/cv/</guid>
+      <description>学歴 非公開
+学位 非公開
+職歴 非公開
+高志 大公開</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://example.org/article/hello-hugo/</link>
+      <pubDate>Sat, 01 May 2021 16:32:15 +0900</pubDate>
+      
+      <guid>http://example.org/article/hello-hugo/</guid>
+      <description>Hello, World!
+この記事はテストのために作成されました.
+動画を埋め込むことが可能なようです. layouts/shortcodes/youtube.htmlにshortcodeを記述し, サイズを調整しています.
+ 筑波山の山頂にて   shortcodeを用いて画像をタイトル付きで表示しています. その際, サイズを変更しています.
+🦑
+&amp;mdash; あうら (@aura_tks) April 21, 2021  同様にshortcodeを用いるとツイートを簡単に掲載できます.
+このサイトは, 以下のサイトを参考にして作成されました:
+Hugoで1からテーマを作ってGitHub Pagesにデプロイする
+Hugoで画像や動画を投稿する時はShortcodeを使おう - Qiita
+以下の「テスト」はこの記事が所属するカテゴリーを表しており, クリックするとカテゴリー「テスト」に属する記事の一覧が表示されます.</description>
+    </item>
+    
+  </channel>
+</rss>
