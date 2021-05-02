@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>盆地至上主義</title>
-    <link>/</link>
+    <link>https://auta-tks.github.io/portfolio/</link>
     <description>Recent content on 盆地至上主義</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 01 May 2021 16:32:22 +0900</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://auta-tks.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>今月の一冊について</title>
-      <link>/article/aboutmonthlybook/</link>
+      <link>https://auta-tks.github.io/portfolio/article/aboutmonthlybook/</link>
       <pubDate>Sun, 02 May 2021 11:41:39 +0900</pubDate>
       
-      <guid>/article/aboutmonthlybook/</guid>
+      <guid>https://auta-tks.github.io/portfolio/article/aboutmonthlybook/</guid>
       <description>これから毎月一冊の本を選んで読み, その本の感想を残してゆこうと思います.</description>
     </item>
     
     <item>
       <title>毎日アイカツ!について</title>
-      <link>/article/abouteverydayaikatsu/</link>
+      <link>https://auta-tks.github.io/portfolio/article/abouteverydayaikatsu/</link>
       <pubDate>Sun, 02 May 2021 11:39:24 +0900</pubDate>
       
-      <guid>/article/abouteverydayaikatsu/</guid>
+      <guid>https://auta-tks.github.io/portfolio/article/abouteverydayaikatsu/</guid>
       <description>これから毎日, アイカツ!を1話観て, その感想を残すことを日課にしようと思います.</description>
     </item>
     
     <item>
       <title>その他</title>
-      <link>/others/</link>
+      <link>https://auta-tks.github.io/portfolio/others/</link>
       <pubDate>Sun, 02 May 2021 11:27:46 +0900</pubDate>
       
-      <guid>/others/</guid>
+      <guid>https://auta-tks.github.io/portfolio/others/</guid>
       <description>経歴
 ノート
 言葉
@@ -43,19 +43,19 @@
     
     <item>
       <title>ノート</title>
-      <link>/notes/</link>
+      <link>https://auta-tks.github.io/portfolio/notes/</link>
       <pubDate>Sun, 02 May 2021 11:24:35 +0900</pubDate>
       
-      <guid>/notes/</guid>
+      <guid>https://auta-tks.github.io/portfolio/notes/</guid>
       <description>この頁では, 数学関係のノートを掲載します.</description>
     </item>
     
     <item>
       <title>リンク</title>
-      <link>/links/</link>
+      <link>https://auta-tks.github.io/portfolio/links/</link>
       <pubDate>Sun, 02 May 2021 10:58:00 +0900</pubDate>
       
-      <guid>/links/</guid>
+      <guid>https://auta-tks.github.io/portfolio/links/</guid>
       <description>数学
 arXiv
 Stacks Project
@@ -68,19 +68,19 @@ Wikipedia…暇潰しにどうぞ.
     
     <item>
       <title>言葉</title>
-      <link>/words/</link>
+      <link>https://auta-tks.github.io/portfolio/words/</link>
       <pubDate>Sun, 02 May 2021 10:44:55 +0900</pubDate>
       
-      <guid>/words/</guid>
+      <guid>https://auta-tks.github.io/portfolio/words/</guid>
       <description>この頁では, 私が影響を受けた言葉や文章を紹介します.</description>
     </item>
     
     <item>
       <title>経歴</title>
-      <link>/cv/</link>
+      <link>https://auta-tks.github.io/portfolio/cv/</link>
       <pubDate>Sun, 02 May 2021 10:20:24 +0900</pubDate>
       
-      <guid>/cv/</guid>
+      <guid>https://auta-tks.github.io/portfolio/cv/</guid>
       <description>学歴 非公開
 学位 非公開
 職歴 非公開
@@ -89,10 +89,10 @@ Wikipedia…暇潰しにどうぞ.
     
     <item>
       <title>Hello World!</title>
-      <link>/article/hello-hugo/</link>
+      <link>https://auta-tks.github.io/portfolio/article/hello-hugo/</link>
       <pubDate>Sat, 01 May 2021 16:32:15 +0900</pubDate>
       
-      <guid>/article/hello-hugo/</guid>
+      <guid>https://auta-tks.github.io/portfolio/article/hello-hugo/</guid>
       <description>Hello, World!
 この記事はテストのために作成されました.
 動画を埋め込むことが可能なようです. layouts/shortcodes/youtube.htmlにshortcodeを記述し, サイズを調整しています.
