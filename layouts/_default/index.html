@@ -1,13 +1,15 @@
 {{ define "title" }}
-{{- .Title -}}
+{{- .Site.Title -}}
 {{ end }}
 {{ define "main" }}
-{{ "<!-- _default/terms.html start -->" | safeHTML }}
+{{ "<!-- _default/index.html start -->" | safeHTML }}
+<h1>{{ .Site.Title }}</h1>
 {{ .Content }}
+最近の更新:
 <ul>
-{{ range .Pages -}}
-<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ range first 5 .Site.RegularPages -}}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> {{.Date}}</li>
 {{ end -}}
 </ul>
-{{ "<!-- _default/terms.html end -->" | safeHTML }}
+{{ "<!-- _default/index.html end -->" | safeHTML }}
 {{ end }}
