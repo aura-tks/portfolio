@@ -10,7 +10,7 @@ Hello, World!
 この記事はテストのために作成されました.
 
 {{< youtube w7Ft2ymGmfc >}}
-動画を埋め込むことが可能なようです. 
+動画を埋め込むことが可能なようです.
 
 {{< figure src="/images/DSC_0083.JPG" title="筑波山の山頂にて" class="center" width="700" height="500">}}
 shortcodeを用いて画像をタイトル付きで表示しています. その際, サイズを変更しています.
@@ -25,3 +25,5 @@ shortcodeを用いて画像をタイトル付きで表示しています. その
 [Hugoで画像や動画を投稿する時はShortcodeを使おう - Qiita](https://qiita.com/waytoa/items/4107945cbd3883f51755)
 
 以下の「テスト」はこの記事が所属するカテゴリーを表しており, クリックするとカテゴリー「テスト」に属する記事の一覧が表示されます.
+
+***
