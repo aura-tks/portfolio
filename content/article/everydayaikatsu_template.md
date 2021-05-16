@@ -1,5 +1,5 @@
 ---
-title: "毎日アイカツ!「第n話」"
+title: "毎日アイカツ!「第n話 」"
 categories: ["アイカツ"]
 draft: true
 ---
