@@ -1,6 +1,5 @@
 ---
 title: "毎日アイカツ!「第n話」"
-date: 2021-05-08T08:52:43+09:00
 categories: ["アイカツ"]
 draft: true
 ---
