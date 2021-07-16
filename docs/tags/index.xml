@@ -5,10 +5,6 @@
     <link>https://aura-tks.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on 盆地至上主義</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    
-	<atom:link href="https://aura-tks.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ja</language><atom:link href="https://aura-tks.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

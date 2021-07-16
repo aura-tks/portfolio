@@ -1,334 +1,205 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aura-tks.github.io/portfolio/article/</loc>
-    <lastmod>2021-07-06T18:19:56+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-07-16T10:47:47+09:00</lastmod>
+  </url><url>
+    <loc>https://aura-tks.github.io/portfolio/article/recentdays0716/</loc>
+    <lastmod>2021-07-16T10:47:47+09:00</lastmod>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/categories/</loc>
     <lastmod>2021-07-06T18:19:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/categories/%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84/</loc>
     <lastmod>2021-07-06T18:19:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu50/</loc>
     <lastmod>2021-07-06T18:19:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu49/</loc>
     <lastmod>2021-07-02T09:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu48/</loc>
     <lastmod>2021-07-01T14:46:47+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu47/</loc>
     <lastmod>2021-06-30T09:37:58+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu46/</loc>
     <lastmod>2021-06-29T08:55:08+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu45/</loc>
     <lastmod>2021-06-28T09:10:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu44/</loc>
     <lastmod>2021-06-27T09:24:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/recentdays0626/</loc>
     <lastmod>2021-06-26T21:58:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu43/</loc>
     <lastmod>2021-06-25T09:09:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu42/</loc>
     <lastmod>2021-06-23T08:23:38+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu41/</loc>
     <lastmod>2021-06-22T06:38:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu40/</loc>
     <lastmod>2021-06-21T10:21:33+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu39/</loc>
     <lastmod>2021-06-20T23:39:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu38/</loc>
     <lastmod>2021-06-18T09:12:07+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu37/</loc>
     <lastmod>2021-06-16T11:18:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu36/</loc>
     <lastmod>2021-06-16T09:19:25+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu35/</loc>
     <lastmod>2021-06-14T07:56:14+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu34/</loc>
     <lastmod>2021-06-13T10:25:12+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu33/</loc>
     <lastmod>2021-06-11T10:40:15+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu32/</loc>
     <lastmod>2021-06-10T09:41:52+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu31/</loc>
     <lastmod>2021-06-05T20:25:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu30/</loc>
     <lastmod>2021-06-04T08:26:41+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu29/</loc>
     <lastmod>2021-06-03T08:19:13+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu28/</loc>
     <lastmod>2021-06-02T09:59:10+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu27/</loc>
     <lastmod>2021-06-01T07:15:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu26/</loc>
     <lastmod>2021-05-31T07:45:06+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu25/</loc>
     <lastmod>2021-05-30T00:28:43+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu24/</loc>
     <lastmod>2021-05-28T19:45:02+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu23/</loc>
     <lastmod>2021-05-27T22:08:26+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu22/</loc>
     <lastmod>2021-05-23T20:40:06+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu21/</loc>
     <lastmod>2021-05-22T19:50:21+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu20/</loc>
     <lastmod>2021-05-21T22:02:29+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu19/</loc>
     <lastmod>2021-05-20T23:38:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu18/</loc>
     <lastmod>2021-05-19T23:07:46+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu17/</loc>
     <lastmod>2021-05-18T21:38:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu16/</loc>
     <lastmod>2021-05-17T16:44:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu15/</loc>
     <lastmod>2021-05-16T20:28:39+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu14/</loc>
     <lastmod>2021-05-15T11:09:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu13/</loc>
     <lastmod>2021-05-14T19:05:15+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu12/</loc>
     <lastmod>2021-05-13T21:53:30+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu11/</loc>
     <lastmod>2021-05-12T09:52:21+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu10/</loc>
     <lastmod>2021-05-11T19:48:16+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu9/</loc>
     <lastmod>2021-05-10T20:58:42+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu8/</loc>
     <lastmod>2021-05-09T09:01:39+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu7/</loc>
     <lastmod>2021-05-08T15:46:27+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu6/</loc>
     <lastmod>2021-05-08T08:51:04+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu5/</loc>
     <lastmod>2021-05-07T00:05:48+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu4/</loc>
     <lastmod>2021-05-06T14:44:53+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu3/</loc>
     <lastmod>2021-05-05T11:52:17+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu2/</loc>
     <lastmod>2021-05-04T07:03:52+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/everydayaikatsu1/</loc>
     <lastmod>2021-05-03T09:18:36+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/categories/%E4%BB%8A%E6%9C%88%E3%81%AE%E4%B8%80%E5%86%8A/</loc>
     <lastmod>2021-05-02T11:41:39+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/aboutmonthlybook/</loc>
     <lastmod>2021-05-02T11:41:39+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/abouteverydayaikatsu/</loc>
     <lastmod>2021-05-02T11:39:24+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/others/</loc>
     <lastmod>2021-05-02T11:27:46+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/notes/</loc>
     <lastmod>2021-05-02T11:24:35+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/links/</loc>
     <lastmod>2021-05-02T10:58:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/words/</loc>
     <lastmod>2021-05-02T10:44:55+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/cv/</loc>
     <lastmod>2021-05-02T10:20:24+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/</loc>
     <lastmod>2021-05-01T16:32:22+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/article/hello-hugo/</loc>
     <lastmod>2021-05-01T16:32:15+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/categories/%E3%83%86%E3%82%B9%E3%83%88/</loc>
     <lastmod>2021-05-01T16:32:15+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aura-tks.github.io/portfolio/tags/</loc>
   </url>
-  
 </urlset>

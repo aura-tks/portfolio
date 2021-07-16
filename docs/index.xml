@@ -6,10 +6,35 @@
     <description>Recent content on 盆地至上主義</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 May 2021 16:32:22 +0900</lastBuildDate>
-    
-	<atom:link href="https://aura-tks.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 01 May 2021 16:32:22 +0900</lastBuildDate><atom:link href="https://aura-tks.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>さいきん興味があること(07/16)</title>
+      <link>https://aura-tks.github.io/portfolio/article/recentdays0716/</link>
+      <pubDate>Fri, 16 Jul 2021 10:47:47 +0900</pubDate>
+      
+      <guid>https://aura-tks.github.io/portfolio/article/recentdays0716/</guid>
+      <description>PCを新調しましたので, このブログを更新するための道具も新しいPCにお引っ越しすることになりました. 今回の更新はそのお引っ越しがちゃんと済んでいるかのテストで, ついでに近況を報告したいと思います.
+・アイカツ!について
+134話まで視聴しました.
+・劇場版アイカツ!を視聴した
+美月はアイカツ!そのもの, 1st-2ndの物語そのものだったということがよくわかる映画でした.
+一つだけ. 劇場版でユリカ様が実は計算が得意だという描写がありました. 一方で蘭の曲であるTrap of Loveの歌詞には「計算じゃ解けない疑問は手と手で探るの」とあります. 私はこの蘭ユリの一致を見ることができただけでも劇場版を視聴した価値があると感じました.
+・ワンダーエッグ・プライオリティを視聴した
+感情が壊れました. このアニメ, 私は嫌いですが, それを補うくらい大好きです.
+・少女歌劇レヴュースタァライトを視聴した
+面白かったです. 劇場版も見に行かなくては
+・今期のアニメについて
+メイドラゴンと白い砂のアクアトープを観ています.
+・毎日絵を描いている
+書きたいと思ったものを毎日の日記の端っこに描いています. procreateがアプリの肥やしとなってしまっているので, これも活用したいところですが……. あと昔に買って放置しているデッサンの本も段々と読んでゆきたいですね.
+・数学の研究
+大きな進展があり, 非常に楽しみなのですが, 一方でこの時期かという思いもあります. 今研究していることは昔に勉強したことも含めて本当に全てを必要としており, 幾年に渡る遠回り(?)が全て無駄ではなかったと感じています.
+・勉強
+共立講座の「現代数理統計学の基礎」を読み始めました. 上の数学はノートを取ったり論文をめくったり髪を掻きむしったりその場で歩き回ったりと忙しくとても人前でお見せできるような姿を保って成せるものではないのですが, こちらは教科書とiPadで完結しているので喫茶店などでもできるものと期待しています. 気分転換に読んでいるという感じです.
+他には, 去年に基本情報の試験を受ける予定だったのですがコロナ禍で流れてしまったので, 今年こそ試験を受けようと思っています. 1年ぶりに競技プログラミングに復帰することも考えています(実現可能性はとても低いです. どちらかというとKaggleのコンペティションに一度は参加してみたいなという気持ちの方が強いです).
+・人生
+思うことがありました.</description>
+    </item>
     
     <item>
       <title>毎日アイカツ!「第50話 思い出は未来のなかに」</title>
@@ -137,7 +162,7 @@
     </item>
     
     <item>
-      <title>さいきん興味があること</title>
+      <title>さいきん興味があること(06/26)</title>
       <link>https://aura-tks.github.io/portfolio/article/recentdays0626/</link>
       <pubDate>Sat, 26 Jun 2021 21:58:27 +0900</pubDate>
       
@@ -954,8 +979,10 @@ Wikipedia…暇潰しにどうぞ.
 この記事はテストのために作成されました.
 動画を埋め込むことが可能なようです.
  筑波山の山頂にて   shortcodeを用いて画像をタイトル付きで表示しています. その際, サイズを変更しています.
-🦑
-&amp;mdash; あうら (@aura_tks) April 21, 2021  同様にshortcodeを用いるとツイートを簡単に掲載できます.
+暑中お見舞い申し上げます。
+皆様におかれましてはいかがお過ごしだろうか？
+『スプラトゥーン2』で一足先に真夏の日差しを感じながら、新たな季節の到来を心待ちにしていただければ幸いだ。 pic.twitter.com/oVoYz5k3LH
+&amp;mdash; Splatoon（スプラトゥーン） (@SplatoonJP) July 15, 2021  同様にshortcodeを用いるとツイートを簡単に掲載できます.
 このサイトは, 以下のサイトを参考にして作成されました:
 Hugoで1からテーマを作ってGitHub Pagesにデプロイする
 Hugoで画像や動画を投稿する時はShortcodeを使おう - Qiita

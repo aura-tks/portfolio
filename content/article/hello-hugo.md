@@ -15,7 +15,7 @@ Hello, World!
 {{< figure src="/images/DSC_0083.JPG" title="筑波山の山頂にて" class="center" width="700" height="500">}}
 shortcodeを用いて画像をタイトル付きで表示しています. その際, サイズを変更しています.
 
-{{< tweet 1384862886930100226 >}}  
+{{< tweet 1415495154111242246 >}}  
 同様にshortcodeを用いるとツイートを簡単に掲載できます.
 
 このサイトは, 以下のサイトを参考にして作成されました:
