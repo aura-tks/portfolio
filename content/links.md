@@ -3,7 +3,7 @@ title: "リンク"
 date: 2021-05-02T10:58:00+09:00
 # draft: true
 ---
-**数学**
+**数学関連**
 
 [arXiv](https://arxiv.org/)
 
