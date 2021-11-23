@@ -5,16 +5,16 @@ date: 2021-05-02T10:58:00+09:00
 ---
 **数学関連**
 
-[arXiv](https://arxiv.org/)
+[arXiv](https://arxiv.org/)　論文がある.
 
-[Stacks Project](https://stacks.math.columbia.edu/)
+[Stacks Project](https://stacks.math.columbia.edu/) 事実がある.
 
-[mathoverflow](https://mathoverflow.net/)
+[mathoverflow](https://mathoverflow.net/) 質問がある.
 
 **数学以外**
 
-[阿浦高志のTwitter](https://twitter.com/aura_tks)…阿浦高志に関する情報が逐次更新される便利なサイト. 他に呟くという機能がある.
+[阿浦高志のTwitter](https://twitter.com/aura_tks) 呟くという機能がある.
 
-[Wikipedia](https://ja.wikipedia.org/)…暇潰しにどうぞ.
+[Wikipedia](https://ja.wikipedia.org/) 開くと一日をスキップできる.
 
-[東秩父村役場](https://www.vill.higashichichibu.saitama.jp/)…ご存じ, 東秩父村のホームページ. 全てはここからはじまった.
+[東秩父村役場](https://www.vill.higashichichibu.saitama.jp/) 起源がある.
