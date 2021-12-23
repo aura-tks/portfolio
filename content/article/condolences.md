@@ -1,8 +1,7 @@
 ---
 title: "弔辞"
-date: 2021-12-23T00:57:51+09:00
-categories: ["日記"]
-draft: true
+date: 2021-12-23T19:52:11+09:00
+# draft: true
 ---
 
 ***
